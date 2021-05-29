@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/entaitamen-hub/static/css/main.6a52fd37.chunk.css",
+    "main.js": "/entaitamen-hub/static/js/main.410a2d99.chunk.js",
+    "main.js.map": "/entaitamen-hub/static/js/main.410a2d99.chunk.js.map",
+    "runtime-main.js": "/entaitamen-hub/static/js/runtime-main.3859ebb4.js",
+    "runtime-main.js.map": "/entaitamen-hub/static/js/runtime-main.3859ebb4.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/entaitamen-hub/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.7e71cf53.chunk.js": "/entaitamen-hub/static/js/2.7e71cf53.chunk.js",
+    "static/js/2.7e71cf53.chunk.js.map": "/entaitamen-hub/static/js/2.7e71cf53.chunk.js.map",
+    "static/js/3.ac0f6ec6.chunk.js": "/entaitamen-hub/static/js/3.ac0f6ec6.chunk.js",
+    "static/js/3.ac0f6ec6.chunk.js.map": "/entaitamen-hub/static/js/3.ac0f6ec6.chunk.js.map",
+    "index.html": "/entaitamen-hub/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/entaitamen-hub/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.6a52fd37.chunk.css.map": "/entaitamen-hub/static/css/main.6a52fd37.chunk.css.map",
+    "static/js/2.7e71cf53.chunk.js.LICENSE.txt": "/entaitamen-hub/static/js/2.7e71cf53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3859ebb4.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.7e71cf53.chunk.js",
+    "static/css/main.6a52fd37.chunk.css",
+    "static/js/main.410a2d99.chunk.js"
+  ]
+}
